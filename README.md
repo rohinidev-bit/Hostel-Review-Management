@@ -2,7 +2,9 @@
 
 
 ## Landing Page
-#### On succesfully logging in, the user will be directed here. 
+#### On succesfully logging in, the user will be directed to the image gallery of the campus.
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/46785912/119180765-58a0fd00-ba8e-11eb-81de-0efdea1968da.gif)
+
 ## Navigation
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/46785912/119109754-11d7e680-ba3f-11eb-8671-dca86cc26a7e.gif)
 ## Review/Query/Comment
